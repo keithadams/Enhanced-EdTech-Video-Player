@@ -17,3 +17,8 @@ This video player prototype enables the user to sort video comments the followin
 - Sort by combination of all the above
 
 The intent of the enhanced comment sorting is to empower students to discover highly relevant comments at the section of the video they're currently viewing. This takes advantage of context as well as the historical value of previous students engaging with course instructors in Q&A.
+
+
+## Retangular Selection
+
+![](https://i.imgur.com/XW3qRcx.gif)
