@@ -1,0 +1,16 @@
+/* Selection Border */
+.jcrop-vline,
+.jcrop-hline {
+  background: yellow;
+  background: red;
+  /*filter: alpha(opacity=70) !important;*/
+  opacity: .7 !important;
+}
+
+.jcrop-vline {
+  width: 4px !important;
+}
+
+.jcrop-hline {
+  height: 4px !important;
+}
